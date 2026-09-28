@@ -2,7 +2,7 @@
 
 Desenvolvimento de um pipeline de Processamento de Linguagem Natural (PLN) para extração e análise automatizada de informações sobre propriedades fotoluminescentes descritas na literatura científica.
 
-| Informação | Descrição |
+| **Informação** | **Descrição** |
 |---|---|
 | **Autoras** | Bruna Guedes Pereira e Sarah Santos Silva |
 | **Professor orientador** | James Moraes de Almeida |
